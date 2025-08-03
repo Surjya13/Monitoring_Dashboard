@@ -16,5 +16,21 @@
     "successRate": 87.3,
     "nextRun": "2 min",
     "errorCount": 12
+  },
+  {
+    jobName: "Database Backup",
+    status: "healthy",
+    lastRun: "4 hours ago",
+    duration: "45m",
+    successRate: 100,
+    nextRun: "20 hours",
+  },
+  {
+    jobName: "SSL Certificate",
+    status: "warning",
+    lastRun: "1 hour ago",
+    duration: "0.5s",
+    successRate: 95.5,
+    nextRun: "23 hours",
   }
 ]
