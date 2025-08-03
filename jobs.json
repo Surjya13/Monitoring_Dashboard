@@ -24,6 +24,7 @@
     "duration": "45m",
     "successRate": 100,
     "nextRun": "20 hours",
+    "errorCount": 0
   },
   {
     "jobName": "SSL Certificate",
@@ -32,5 +33,6 @@
     "duration": "0.5s",
     "successRate": 95.5,
     "nextRun": "23 hours",
+    "errorCount": 0
   }
 ]
