@@ -1,0 +1,20 @@
+[
+  {
+    "jobName": "API Health Check",
+    "status": "healthy",
+    "lastRun": "2 min ago",
+    "duration": "1.2s",
+    "successRate": 99.8,
+    "nextRun": "3 min",
+    "errorCount": 0
+  },
+  {
+    "jobName": "Payment Gateway",
+    "status": "error",
+    "lastRun": "1 min ago",
+    "duration": "2.8s",
+    "successRate": 87.3,
+    "nextRun": "2 min",
+    "errorCount": 12
+  }
+]
