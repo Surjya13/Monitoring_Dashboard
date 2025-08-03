@@ -26,7 +26,7 @@
     "nextRun": "20 hours",
   },
   {
-    "jobName: "SSL Certificate",
+    "jobName": "SSL Certificate",
     "status": "warning",
     "lastRun": "1 hour ago",
     "duration": "0.5s",
